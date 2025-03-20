@@ -1,0 +1,20 @@
+title: "George Sichinga"
+description: "A fusion of data, design, and creativity."
+theme: jekyll-theme-minimal
+
+# Custom Styling
+sass:
+  style: compressed
+  custom: "assets/css/custom.scss"
+
+
+text_color: "#1e293b" # Deep slate for contrast
+accent_color: "#ff6b81" # Vibrant coral for creativity
+highlight_color: "#38bdf8" # Sky blue for wave energy
+
+# Plugins (if needed)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-analytics
