@@ -46,7 +46,7 @@ I specialize in decoding patterns, forecasting trends, and building models that 
 ---
 
 ## Contact  
-- **GitHub**: [github.com/Georgeisgenius](https://github.com/Georgeisgenius)  
+- **GitHub**: [github.com/GeorgeSichinga](https://github.com/GeorgeSichinga)  
 - **LinkedIn**: [linkedin.com/in/george-sichinga](https://www.linkedin.com/in/george-sichinga-871362256/)  
 - **Email**: [georgesichinga31@gmail.com](mailto:georgesichinga31@gmail.com)  
 
